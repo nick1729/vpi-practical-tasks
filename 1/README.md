@@ -1,0 +1,2 @@
+﻿Task:
+In a one-dimensional array consisting of N real elements, calculate the sum of the negative elements of the array and order the elements of the array in ascending order using the insertion method.
